@@ -17,7 +17,7 @@ document.getElementById("submit").addEventListener("click",function(event){
 	let cell3=document.createElement("td");
 	let cell4=document.createElement("td");
 	 let removebutton=document.createElement("button");
-    removebutton.classList.add("removebutton");
+    removebutton.classList.add("delete");
 	removebutton.innerHTML="X"
 
 
